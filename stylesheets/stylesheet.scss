@@ -70,12 +70,10 @@ body {
   }
 
   .card {
-    // border-top: 3px solid $red;
     border-radius: 0.5rem;
     padding: 1.25rem 2rem;
     @include card-box-shadow;
     position: relative;
-    // min-width: 275px;
 
     .card-border {
       height: 4px;
@@ -117,8 +115,6 @@ body {
       display: block;
       margin-left: auto;
       padding: 2rem 0 1rem 0;
-      // display: flex;
-      // align-items: flex-end;
     }
   }
 }
@@ -133,9 +129,6 @@ body {
 }
 
 // Media Queries
-// max width 375px
-// @media only screen and (width: 375px) {
-
 @media only screen and (max-width: 1068px) {
   body {
   }
