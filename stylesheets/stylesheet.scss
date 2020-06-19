@@ -130,8 +130,6 @@ body {
 
 // Media Queries
 @media only screen and (max-width: 1068px) {
-  body {
-  }
   .container {
     width: 80%;
   }
@@ -192,7 +190,6 @@ body {
     p {
       padding: 1rem 0 3rem 0;
       width: 50%;
-      // margin: 0;
     }
   }
 
@@ -224,13 +221,6 @@ body {
     p {
       padding: 1rem 0 3rem 0;
       width: 90%;
-    }
-  }
-
-  #cards {
-    .col {
-      .card {
-      }
     }
   }
 }
