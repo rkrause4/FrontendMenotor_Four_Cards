@@ -8,4 +8,4 @@ The challenge, by Frontend Mentor, was to create the design from the picture abo
 
 ## Live Site
 
-You can see my solution live on netlify [here](fm-fourcards.netlify.app)
+You can see my solution live on netlify [here](https://fm-fourcards.netlify.app/)
